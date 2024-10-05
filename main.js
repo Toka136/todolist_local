@@ -3,6 +3,8 @@ window.onload= function()
 {
     get_data();
     document.getElementById("inp").placeholder="Add Your Task";
+
+    
 }
 let tasklist=[];
 let compeletetasks=[];
